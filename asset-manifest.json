@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/miClone/static/css/main.6e682d5e.css",
+    "main.js": "/miClone/static/js/main.37cc35c6.js",
+    "index.html": "/miClone/index.html",
+    "main.6e682d5e.css.map": "/miClone/static/css/main.6e682d5e.css.map",
+    "main.37cc35c6.js.map": "/miClone/static/js/main.37cc35c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e682d5e.css",
+    "static/js/main.37cc35c6.js"
+  ]
+}
